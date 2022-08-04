@@ -1,0 +1,19 @@
+:root {
+    font-size: 16px;
+}
+
+.caja {}
+
+.uno {
+    font-size: 20px;
+    width: 3rem;
+    height: 3rem;
+    background-color: yellow;
+}
+
+.dos {
+    font-size: 20px;
+    width: 3em;
+    height: 3em;
+    background-color: greenyellow;
+}
